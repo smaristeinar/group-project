@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+}
+
+.header{
+    padding-top: 10%;
+    justify-content: center;
+    font-size: large;
+}
+
