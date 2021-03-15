@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Noto+Sans+TC:wght@300&display=swap');
+/*
+font-family: 'Inter', sans-serif;
+font-family: 'Noto Sans TC', sans-serif;
+*/
+
 *{
     padding:0px;
     margin: 0px;
@@ -16,6 +22,8 @@
     padding-top: 10%;
     justify-content: center;
     font-size: x-large;
+    font-family: 'Inter', sans-serif;
+
 }
 
 .container2{
@@ -29,9 +37,11 @@
 .container2 > label{
     padding-right:10px;
     padding-top: 300px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 .container2 input{
     margin:10px;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 
@@ -41,6 +51,7 @@ button{
     padding: 10px;
     border-radius: 8px;
     border-color: greenyellow;
+    font-family: 'Noto Sans TC', sans-serif;
 }
 
 
