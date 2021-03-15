@@ -18,3 +18,11 @@
     font-size: x-large;
 }
 
+.btn > button{
+    margin-top: 10%;
+    background-color: greenyellow;
+    padding: 10px;
+    border-radius: 8px;
+    border-color: greenyellow;
+}
+
